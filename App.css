@@ -1,0 +1,17 @@
+/* src/App.css */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.button-container {
+  display: flex;
+  gap: 10px;
+}
+
+.pet-columns {
+  display: flex;
+  gap: 20px;
+}
